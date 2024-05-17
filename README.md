@@ -1,0 +1,4 @@
+-Kullanıcı Kayıt
+-Kullanıcı giriş kontrolü
+-Kullanıcıya ait profile, profil fotoğrafı veya avatar yükleme
+-Kullanıcıya ait fotoğraf veya avatarı güncelleme.
